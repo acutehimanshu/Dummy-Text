@@ -8,26 +8,26 @@ Welcome to the Multilingual Dummy Text Repository! This repository is designed t
 
 Here are the top 20 languages supported in this repository:
 
-1. Hindi
-2. English
-3. Mandarin Chinese
-4. Spanish
-5. Arabic
-6. Bengali
-7. Portuguese
-8. Russian
-9. Marathi
-10. Indonesian
-11. German
-12. French
-13. Italian
-14. Turkish
-15. Japanese
-16. Korean
-17. Tamil
-18. Vietnamese
-19. Telugu
-20. Urdu
+1. [Hindi](./Hindi)
+2. [English](./English)
+3. [Mandarin Chinese](./Chinese)
+4. [Spanish](./Spanish)
+5. [Arabic](./Arabic)
+6. [Bengali](./Bengali)
+7. [Portuguese](./Portuguese)
+8. [Russian](./Russian)
+9. [Marathi](./Marathi)
+10. [Indonesian](./Indonesian)
+11. [German](./German)
+12. [French](./French)
+13. [Italian](./Italian)
+14. [Turkish](./Turkish)
+15. [Japanese](./Japanese)
+16. [Korean](./Korean)
+17. [Tamil](./Tamil)
+18. [Vietnamese](./Vietnamese)
+19. [Telugu](./Telugu)
+20. [Urdu](./Urdu)
 
 ## Usage
 
