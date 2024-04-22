@@ -40,7 +40,7 @@ Feel free to contribute by adding dummy text samples in languages that are not c
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
+ 
 ## Acknowledgements
 
 - Special thanks to TechLakshmi Corporation  who have dedicated their time and efforts to enhance the diversity of dummy text available in this repository.
